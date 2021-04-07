@@ -1,0 +1,18 @@
+https://www.kaggle.com/bolkonsky/starter-covid-19-dataset-by-our-world-data
+
+https://ourworldindata.org/search?q=covid
+
+Предсказания
+
+https://www.kaggle.com/yuanquan/covid-19-prediction-by-country-and-province
+
+https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions#4.-Predictions-for-the-early-stages-of-the-transmission-
+
+https://www.kaggle.com/neelkudu28/covid-19-visualizations-predictions-forecasting#Prediction-using-Machine-Learning-Models
+
+4ю сессию можно на градио сделать https://www.gradio.app/
+
+
+
+
+4ю сессию можно на градио сделать https://www.gradio.app/
